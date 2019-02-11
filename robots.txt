@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobivi.thearnoldstory.com/sitemap.xml
